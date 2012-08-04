@@ -57,8 +57,6 @@ if ($change) {
 
     $word1  =~ s/\b(\w)/uc($1)/eg;
     $word2  =~ s/\b(\w)/uc($1)/eg;
-#    $word1 =~ tr/^[a-z]*/[A-Z]/;
-#    $word2 =~ tr/^[a-z]*/[A-Z]/;
 }
 
 
