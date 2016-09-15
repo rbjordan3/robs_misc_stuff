@@ -1,5 +1,16 @@
 #!/usr/bin/env perl
 
+# Copyright 2016 Rob Jordan - Blazedog Computer Consulting
+#                http://www.blazedog.com
+
+# This software is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this software. If not, see http://www.gnu.org/licenses/.
+
 use strict;
 use warnings;
 use List::Util qw(first max maxstr min minstr reduce shuffle sum);
