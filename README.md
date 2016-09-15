@@ -11,7 +11,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 ##Shamless Plug
 
-Blazedog Computer Consulting located in Limestone, TN provides everything from computer reapairs to web design and software development servcices
+Blazedog Computer Consulting located in Limestone, TN provides everything from computer reapairs to web design and software development services
 
 For more information please visit http://www.blazedog.com
 
